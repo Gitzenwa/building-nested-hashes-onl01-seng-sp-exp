@@ -5,7 +5,10 @@ def third_challenge
         name: "Lord Montague",
         age: "53"
       },
-      matriarch: {},
+      matriarch: {
+        name: "Lady Montague",
+        age: "53"
+      },
       hero: {},
       hero_friends: []
     },
