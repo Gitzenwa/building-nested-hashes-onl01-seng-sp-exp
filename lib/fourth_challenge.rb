@@ -1,5 +1,5 @@
 def fourth_challenge
-  
+
     epic_tragedy = {
       montague: {
         patriarch: {
@@ -59,7 +59,3 @@ def fourth_challenge
 
 
   end
-
-
-
-end
